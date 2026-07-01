@@ -63,7 +63,7 @@ Atualmente desenvolvendo um **ERP/CRM modular** completo — com pipeline de ven
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cristianlabs&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
@@ -73,7 +73,7 @@ Atualmente desenvolvendo um **ERP/CRM modular** completo — com pipeline de ven
 
 <div align="center">
 
-[![Sistema Empresarial](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=sistema-empresarial&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/sistema-empresarial)
+[![Sistema Empresarial](https://github-readme-stats.vercel.app/api/pin/?username=cristianlabs&repo=sistema-empresarial&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/sistema-empresarial)
 
 </div>
 
@@ -105,8 +105,6 @@ Estou aberto a colaborações, projetos e conversas sobre tecnologia, produto e 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=2563EB&style=for-the-badge&label=Visitas+ao+perfil" alt="Profile views" />
 
 *"Construa coisas que importam."*
 
