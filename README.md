@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Flavio+Litto+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Criador+de+sistemas+empresariais;Apaixonado+por+produto+e+tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Cristian+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Criador+de+sistemas+empresariais;Apaixonado+por+produto+e+tecnologia" alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/flavio%40litto.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavio@litto.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-litto)
-[![Portfolio](https://img.shields.io/badge/litto.com.br-1E3A5F?style=for-the-badge&logo=vercel&logoColor=white)](https://litto.com.br)
+[![Email](https://img.shields.io/badge/c.ribeiro.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavio@litto.com.br)
 
 </div>
 
