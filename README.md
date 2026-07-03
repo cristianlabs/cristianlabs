@@ -101,7 +101,7 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 <div align="center">
 
-[![WalletCore](https://github.com/cristianlabs/WalletCore/blob/main/README.md)
+[![WalletCore](https://github-readme-stats.vercel.app/api/pin/?username=cristianlabs&repo=WalletCore&theme=tokyonight&hide_border=true)](https://github.com/cristianlabs/WalletCore/)
 
 </div>
 
