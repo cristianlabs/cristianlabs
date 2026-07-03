@@ -30,8 +30,11 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 
 ### Backend & Banco de Dados
+![Java]([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -102,7 +105,7 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 </div>
 
-**FinançasPro** é um app de controle financeiro pessoal com dashboard intuitivo e metas inteligentes:
+**WalletCore** é um app de controle financeiro pessoal com dashboard intuitivo e metas inteligentes:
 
 | Funcionalidade | Descrição |
 |---|---|
