@@ -97,11 +97,11 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 ---
 
-### 💰 Recente — FinançasPro
+### 💰 Recente — WalletCore
 
 <div align="center">
 
-[![FinançasPro](https://github-readme-stats.vercel.app/api/pin/?username=cristianlabs&repo=financas-pro&theme=tokyonight&hide_border=true)](https://github.com/cristianlabs/financas-pro)
+[![WalletCore](https://github.com/cristianlabs/WalletCore/blob/main/README.md)
 
 </div>
 
