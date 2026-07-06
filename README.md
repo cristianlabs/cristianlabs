@@ -17,8 +17,8 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 - 🔭 Trabalhando em: **Sistema Empresarial** — plataforma SaaS multi-módulo com Next.js + Supabase
 - 💰 Recém lançado: **WalletCore** — controle financeiro pessoal com metas e relatórios
 - ⏭️ Próximo projeto: **TaskFlow** — gerenciador de tarefas moderno e colaborativo
-- 🌱 Explorando: **IA generativa aplicada a processos de negócio**
-- 💡 Filosofia: *Menos configuração, mais produto. Código limpo, deploy rápido.*
+- 🌱 Explorando: **IA generativa aplicada a processos de negócio**, **automação e otimização de processos de negócio**, **desenvolvimento de soluções para resolução de problemas**, **IoT com ESP32, MQTT e comunicação entre dispositivos**, **desenvolvimento de sistemas de gerenciamento de estoque com foco em arquitetura, integração e escalabilidade.**
+- 💡 Filosofia: *Acredito em construir produtos com código limpo, arquitetura consistente e foco na experiência do usuário, transformando ideias em soluções práticas e escaláveis.*
 - 📍 Brasil 🇧🇷
 
 ---
