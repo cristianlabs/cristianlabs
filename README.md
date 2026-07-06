@@ -57,11 +57,6 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianlabs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
@@ -77,7 +72,7 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 <div align="center">
 
-[![Sistema Empresarial](https://github-readme-stats.vercel.app/api/pin/?username=cristianlabs&repo=sistema-empresarial&theme=tokyonight&hide_border=true)](https://github.com/cristianlabs/sistema-empresarial)
+![Sistema Empresarial]((https://github.com/cristianlabs/Litto-Hub)
 
 </div>
 
