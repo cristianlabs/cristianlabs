@@ -72,7 +72,7 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 <div align="center">
 
-![Sistema Empresarial]((https://github.com/cristianlabs/Litto-Hub)
+![Enterprise-Saas](https://github.com/cristianlabs/Enterprise-SaaS)
 
 </div>
 
@@ -95,7 +95,7 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 <div align="center">
 
-[![WalletCore](https://github-readme-stats.vercel.app/api/pin/?username=cristianlabs&repo=WalletCore&theme=tokyonight&hide_border=true)](https://github.com/cristianlabs/WalletCore/)
+![WalletCore](https://github.com/cristianlabs/WalletCore/)
 
 </div>
 
