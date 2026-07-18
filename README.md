@@ -33,6 +33,10 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 ![SpringBoot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 
 ### Backend & Banco de Dados
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![VITE](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -48,6 +52,9 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![RUFF](https://img.shields.io/badge/formatted-blue?style=for-the-badge&logo=ruff&logoColor=white&label=ruff&color=%23d7ff64)
 
 ### Integrações
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -90,6 +97,21 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 | 🎓 **Treinamentos** | LMS interno com controle de progresso |
 
 ---
+
+### 🔌 ApiNest
+
+**ApiNest** é uma plataforma de gerenciamento de APIs com cliente REST embutido e documentação automática:
+
+| Funcionalidade | Descrição |
+|---|---|
+| 🔐 **Autenticação** | JWT com refresh token rotativo (single-use) |
+| 🏢 **Organizações** | Papéis ADMIN/EDITOR/VIEWER, convites, projetos |
+| 📚 **Catálogo de APIs** | CRUD de endpoints com tags, ambientes e params estruturados |
+| 🧪 **Cliente REST** | Requisições reais (GET/POST/PUT/PATCH/DELETE) com proteção contra SSRF |
+| 📄 **Docs OpenAPI** | Swagger UI gerado automaticamente a partir dos endpoints |
+| 📊 **Dashboard** | Contagens, requisições recentes, status por API |
+
+> **Stack:** Python · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui · PostgreSQL · Redis · Alembic · Docker
 
 ### 💰 Recente — WalletCore
 
