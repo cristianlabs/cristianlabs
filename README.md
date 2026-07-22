@@ -83,7 +83,7 @@ Sou desenvolvedor full stack com foco em **produtos SaaS** e **sistemas empresar
 
 </div>
 
-**Sistema Empresarial** é uma plataforma SaaS modular construída com tecnologias modernas:
+**Litto Hub** é uma plataforma SaaS modular construída com tecnologias modernas:
 
 | Módulo | Descrição |
 |---|---|
